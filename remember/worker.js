@@ -484,7 +484,7 @@ const HTML = `<!DOCTYPE html>
             <div class="col-lg-6 col-12 notes-section">
                 <div class="section-header">
                     <div class="d-flex justify-content-between align-items-center mb-3">
-                        <h3 class="mb-0"><i class="bi bi-journal-text me-2"></i>我的笔记</h3>
+                        <h3 class="mb-0"><i class="bi bi-journal-text me-2"></i>Remember</h3>
                         <button class="btn btn-primary-custom" onclick="openEditor()">
                             <i class="bi bi-plus-lg"></i> 添加笔记
                         </button>
